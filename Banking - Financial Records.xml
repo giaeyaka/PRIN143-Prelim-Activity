@@ -1,0 +1,8 @@
+<transaction>
+    <transactionId>PJSK-2020</transactionId>
+    <accountNumber>9876543210</accountNumber>
+    <amount>₱15,000.00</amount>
+    <transactionType>Deposit</transactionType>
+    <date>2025-02-06</date>
+    <notes>Funds to purchase Hatsune Miku JAPAN LIVE TOUR 2025</notes>
+</transaction>
