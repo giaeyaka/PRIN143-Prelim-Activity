@@ -1,0 +1,18 @@
+{
+    "id": "STU-2024-039",
+    "name": "Ichika Hoshino",
+    "age": 17,
+    "university": "Kamiyama High School",
+    "program": "Music and Performing Arts",
+    "enrollmentStatus": "Enrolled",
+    "courses": [
+        {
+            "name": "Vocal Training",
+            "instructor": "Meiko"
+        },
+        {
+            "name": "Music Composition",
+            "instructor": "Len Kagamine"
+        }
+    ]
+}
