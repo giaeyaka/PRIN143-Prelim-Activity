@@ -1,0 +1,17 @@
+<product>
+    <id>PROD-3001</id>
+    <name>Hatsune Miku Vocaloid Speaker</name>
+    <category>Merchandise</category>
+    <price>₱2,500.00</price>
+    <stock>In Stock</stock>
+    <specifications>
+        <specification>
+            <name>Color</name>
+            <value>Light Blue</value>
+        </specification>
+        <specification>
+            <name>Power</name>
+            <value>10W</value>
+        </specification>
+    </specifications>
+</product>
