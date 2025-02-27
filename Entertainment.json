@@ -2,7 +2,7 @@
     "id": "2007-CV01",
     "title": "Colorful Stage! The Movie: A Miku Who Can't Sing",
     "genre": "Anime",
-    "duration": "120 minutes",
+    "duration": "PT2H",
     "releaseDate": "2025-01-17",
     "cast": [
         {
@@ -11,7 +11,7 @@
         },
         {
             "name": "Ichika Hoshino",
-            "role": "vocalist, guitarist, and lyricist of Leo/need"
+            "role": "Vocalist, Guitarist, and Lyricist of Leo/need"
         }
     ]
 }
