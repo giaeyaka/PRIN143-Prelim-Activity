@@ -1,13 +1,13 @@
-<product>
-    <id>PROD-CV01</id>
-    <name>Hatsune Miku JAPAN LIVE TOUR 2025 ～BLOOMING～</name>
-    <category>Concert Ticket</category>
-    <price>$200</price>
-    <stock>In Stock</stock>
-    <specifications>
-        <event>
-            <date>2025-04-19</date>
-            <where>Osaka, Japan</where>
-        </event>
-    </specifications>
-</product>
+{
+    "id": "PROD-CV01",
+    "name": "Hatsune Miku JAPAN LIVE TOUR 2025 ～BLOOMING～",
+    "category": "Concert Ticket",
+    "price": "$200",
+    "stock": "In Stock",
+    "specifications": [
+        {
+            "date": "2025-04-19",
+            "where": "Osaka, Japan"
+        }
+    ]
+}
