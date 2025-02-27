@@ -1,17 +1,17 @@
 <movie>
-    <id>MV-2024-020</id>
-    <title>Vivid Sekai: Miku's Journey</title>
+    <id>2007-CV01</id>
+    <title>Colorful Stage! The Movie: A Miku Who Can't Sing</title>
     <genre>Anime</genre>
     <duration>120 minutes</duration>
-    <releaseDate>2024-07-20</releaseDate>
+    <releaseDate>2025-01-17</releaseDate>
     <cast>
         <actor>
             <name>Hatsune Miku</name>
             <role>Vocaloid Idol</role>
         </actor>
         <actor>
-            <name>Kaito</name>
-            <role>Vocaloid Performer</role>
+            <name>Ichika Hoshino</name>
+            <role>vocalist, guitarist, and lyricist of Leo/need</role>
         </actor>
     </cast>
 </movie>
