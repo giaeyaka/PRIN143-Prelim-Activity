@@ -1,17 +1,13 @@
-{
-    "id": "PROD-3001",
-    "name": "Hatsune Miku Vocaloid Speaker",
-    "category": "Merchandise",
-    "price": "₱2,500.00",
-    "stock": "In Stock",
-    "specifications": [
-        {
-            "name": "Color",
-            "value": "Light Blue"
-        },
-        {
-            "name": "Power",
-            "value": "10W"
-        }
-    ]
-}
+<product>
+    <id>PROD-CV01</id>
+    <name>Hatsune Miku JAPAN LIVE TOUR 2025 ～BLOOMING～</name>
+    <category>Concert Ticket</category>
+    <price>$200</price>
+    <stock>In Stock</stock>
+    <specifications>
+        <event>
+            <date>2025-04-19</date>
+            <where>Osaka, Japan</where>
+        </event>
+    </specifications>
+</product>
