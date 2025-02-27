@@ -1,18 +1,18 @@
 <student>
-    <id>STU-2024-039</id>
-    <name>Ichika Hoshino</name>
+    <id>N25-2023-030</id>
+    <name>Ena Shinonome</name>
     <age>17</age>
     <university>Kamiyama High School</university>
-    <program>Music and Performing Arts</program>
+    <program>Arts and Design</program>
     <enrollmentStatus>Enrolled</enrollmentStatus>
     <courses>
         <course>
-            <name>Vocal Training</name>
-            <instructor>Meiko</instructor>
+            <name>Graphic Artist</name>
+            <instructor>KAITO</instructor>
         </course>
         <course>
-            <name>Music Composition</name>
-            <instructor>Len Kagamine</instructor>
+            <name>Illustrator</name>
+            <instructor>Megurine Luka</instructor>
         </course>
     </courses>
 </student>
