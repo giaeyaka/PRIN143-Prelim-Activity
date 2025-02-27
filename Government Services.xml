@@ -1,0 +1,13 @@
+<politician>
+    <id>POL-2024-555</id>
+    <name>Miku Hatsune</name>
+    <position>Prime Minister</position>
+    <party>Future Voices Party</party>
+    <platform>
+        <focusAreas>
+            <focus>Digital Arts and Creativity</focus>
+            <focus>Youth Empowerment</focus>
+            <focus>Music and Culture</focus>
+        </focusAreas>
+    </platform>
+</politician>
