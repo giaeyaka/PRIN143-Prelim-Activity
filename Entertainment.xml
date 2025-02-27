@@ -1,0 +1,17 @@
+<movie>
+    <id>MV-2024-020</id>
+    <title>Vivid Sekai: Miku's Journey</title>
+    <genre>Anime</genre>
+    <duration>120 minutes</duration>
+    <releaseDate>2024-07-20</releaseDate>
+    <cast>
+        <actor>
+            <name>Hatsune Miku</name>
+            <role>Vocaloid Idol</role>
+        </actor>
+        <actor>
+            <name>Kaito</name>
+            <role>Vocaloid Performer</role>
+        </actor>
+    </cast>
+</movie>
