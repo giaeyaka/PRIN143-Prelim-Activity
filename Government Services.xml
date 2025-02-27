@@ -1,8 +1,8 @@
 <politician>
-    <id>POL-2024-555</id>
+    <id>VCLD-CV01</id>
     <name>Miku Hatsune</name>
-    <position>Prime Minister</position>
-    <party>Future Voices Party</party>
+    <position>President</position>
+    <party>Tell your world!</party>
     <platform>
         <focusAreas>
             <focus>Digital Arts and Creativity</focus>
